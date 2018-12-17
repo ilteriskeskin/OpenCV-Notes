@@ -1,1 +1,1 @@
-### OpenCV ile yaptığım çalışmalar
+### OpenCV Dökümanı takip edilerek yapılan çalışmalar
